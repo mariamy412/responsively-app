@@ -323,4 +323,22 @@ These tips help improve testing accuracy and user experience when working with r
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
+## 🚀 Quick Start
+
+Follow these steps to run the project locally
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/responsively-org/responsively-app.git
+2. Navigate to the project folder:
+   ```bash
+   cd responsively-app
+3. Install dependencies:
+   ```bash
+   npm install
+4. Start the development server:
+   ```bash
+   npm start
+Now the application will run locally on your machine
+
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind are welcome!
