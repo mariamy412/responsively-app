@@ -142,6 +142,15 @@ Thanks go to these wonderful people ([emoji key](https://allcontributors.org/doc
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
+
+## 🧪 Accessibility & Performance Tips
+- Avoid resizing windows too rapidly to ensure smooth rendering
+﻿- ﻿Use a stable internet connection for best performance
+﻿﻿- Test layouts on both light and dark themes
+﻿- ﻿Restart the app if device previews do not update correctly
+  
+These tips help improve testing accuracy and user experience when working with responsive layouts.
+
 <table>
   <tbody>
     <tr>
