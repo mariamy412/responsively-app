@@ -151,7 +151,7 @@ Thanks go to these wonderful people ([emoji key](https://allcontributors.org/doc
   
 These tips help improve testing accuracy and user experience when working with responsive layouts.
 
-
+---
 
 <table>
   <tbody>
