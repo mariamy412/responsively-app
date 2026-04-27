@@ -45,12 +45,28 @@
 </p>
 <br>
 
-## Responsively App
+## ⚡️ Responsively App
 
-> A modified browser built using [Electron](https://www.electronjs.org/) that helps in responsive web development.
-> <br>
+<p align="center">
+  <img src="https://responsively.app/assets/img/logo.png" width="120" />
+</p>
 
-![Quick Demo](https://responsively.app/assets/img/responsively-app.gif)
+<p align="center">
+  <strong>A must-have tool for faster responsive web development 🚀</strong><br />
+  <em>Save time by becoming 5x faster</em>
+</p>
+
+<p align="center">
+  <a href="https://github.com/responsively-org/responsively-app/releases/latest">
+    <img src="https://img.shields.io/github/v/releases/responsively-org/responsively-app" />
+  </a>
+
+  <a href="https://github.com/responsively-org/responsively-app/issues">
+    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen" />
+  </a>
+</p>
+
+---
 
 ## Features
 
