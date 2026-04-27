@@ -322,6 +322,7 @@ These tips help improve testing accuracy and user experience when working with r
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+---
 
 ## 🚀 Quick Start
 
@@ -342,3 +343,54 @@ Follow these steps to run the project locally
 Now the application will run locally on your machine
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind are welcome!
+
+---
+
+## ⚒️ Troubleshooting
+
+### ❌ Project does not start
+
+Try reinstalling dependencies:
+
+    ```bash
+    rm -rf node_mobiles
+    npm install
+
+---
+
+❌ npm start does not work
+
+Check Node.js installation:
+
+     node -v
+     npm -v
+
+If nothing is shown, install Node.js:
+https://nodejs.org/
+
+---
+
+❌ Website does not open
+
+Make sure the server is running:
+
+    npm start
+
+Then open:
+
+    https://localhost:3000
+
+---
+
+❌ Error after updates
+
+Clear cache and reinstall:
+
+    npm cache clean --force
+    npm install
+
+---
+
+## Save file
+
+(Press Ctrl + S)
